@@ -1,1 +1,0 @@
-This folder will contain numpy versions of the 2022 images for each region. Files not pushed due to size.
