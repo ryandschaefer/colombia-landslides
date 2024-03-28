@@ -164,3 +164,4 @@ cython_debug/
 *.jpg
 ctrl-t
 datasets/checkpoints/rainfall.csv
+datasets/full_dataset.csv
